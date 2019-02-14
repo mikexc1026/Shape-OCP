@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape-OCP", "Shape-OCP\Shape-OCP.csproj", "{1850F87C-3950-4F42-8A7B-8460365FBF78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape-Naive", "Shape-Naive\Shape-Naive.csproj", "{F5F771C4-C586-4728-BEBC-A3D3005CA46D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1850F87C-3950-4F42-8A7B-8460365FBF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1850F87C-3950-4F42-8A7B-8460365FBF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1850F87C-3950-4F42-8A7B-8460365FBF78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F771C4-C586-4728-BEBC-A3D3005CA46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F771C4-C586-4728-BEBC-A3D3005CA46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F771C4-C586-4728-BEBC-A3D3005CA46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F771C4-C586-4728-BEBC-A3D3005CA46D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
